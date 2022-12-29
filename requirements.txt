@@ -17,7 +17,7 @@ gTTS
 NumPy
 glitch_this
 speedtest
-aiohttp==3.8.3
+aiohttp
 aiofiles
 Pillow
 pypng
